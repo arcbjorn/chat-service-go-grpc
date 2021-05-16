@@ -1,5 +1,7 @@
 ## Chat service using gRPC
 
+Make sure Protoc compiler (protobuf), protoc-go-gen package are installed on your system.
+
 ```bash
 # 1nd terminal
 go run server.go
